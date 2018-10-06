@@ -9,7 +9,7 @@ This demo will give a step-by-step tutorial of creating a custom ribbon button.
 
 ## Overview
 
-- [Create Project](/gunjandatta/sp-ribbonBtn/wiki/Step-1)
-- [Configure Project](wiki/Step-2)
-- [Code Solution](wiki/Step-3)
-- [Demo](wiki/Step-4)
+- [Create Project](https://github.com/gunjandatta/sp-ribbonBtn/wiki/Step-1)
+- [Configure Project](https://github.com/gunjandatta/sp-ribbonBtnwiki/Step-2)
+- [Code Solution](https://github.com/gunjandatta/sp-ribbonBtnwiki/Step-3)
+- [Demo](https://github.com/gunjandatta/sp-ribbonBtnwiki/Step-4)
