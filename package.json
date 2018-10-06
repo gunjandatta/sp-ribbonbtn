@@ -1,0 +1,20 @@
+{
+  "name": "sp-ribbonbtn",
+  "version": "1.0.0",
+  "description": "This demo will give a step-by-step tutorial of creating a custom ribbon button.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gunjandatta/sp-ribbonbtn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gunjandatta/sp-ribbonbtn/issues"
+  },
+  "homepage": "https://github.com/gunjandatta/sp-ribbonbtn#readme"
+}
