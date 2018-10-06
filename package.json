@@ -16,5 +16,16 @@
   "bugs": {
     "url": "https://github.com/gunjandatta/sp-ribbonbtn/issues"
   },
-  "homepage": "https://github.com/gunjandatta/sp-ribbonbtn#readme"
+  "homepage": "https://github.com/gunjandatta/sp-ribbonbtn#readme",
+  "dependencies": {
+    "gd-sprest": "^4.2.9"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.1.2",
+    "@babel/preset-env": "^7.1.0",
+    "babel-loader": "^8.0.4",
+    "ts-loader": "^5.2.1",
+    "webpack": "^4.20.2",
+    "webpack-cli": "^3.1.2"
+  }
 }
