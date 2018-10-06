@@ -4,7 +4,8 @@
   "description": "This demo will give a step-by-step tutorial of creating a custom ribbon button.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "webpack --mode=development",
+    "prod": "webpack --mode=production"
   },
   "repository": {
     "type": "git",
@@ -18,7 +19,7 @@
   },
   "homepage": "https://github.com/gunjandatta/sp-ribbonbtn#readme",
   "dependencies": {
-    "gd-sprest": "^4.2.9"
+    "gd-sprest": "^4.3.0"
   },
   "devDependencies": {
     "@babel/core": "^7.1.2",
