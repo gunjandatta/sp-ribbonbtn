@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/gunjandatta/sp-ribbonbtn#readme",
   "dependencies": {
-    "gd-sprest": "^4.3.6"
+    "gd-sprest": "^4.4.6"
   },
   "devDependencies": {
     "@babel/core": "^7.1.2",

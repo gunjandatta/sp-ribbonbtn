@@ -16,7 +16,6 @@ export const MyInfo = () => {
             Web().CurrentUser().execute(userInfo => {
                 // Create the element to contain the user information
                 let elUserInfo = document.createElement("div");
-                debugger;
                 elUserInfo.innerHTML = [
                     '<h1>' + userInfo["Title"] + '</h1>',
                     '<h3>Email Address: ' + userInfo.Email + '</h3>',
