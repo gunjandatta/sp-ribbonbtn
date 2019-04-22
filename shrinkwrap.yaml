@@ -1,5 +1,5 @@
 dependencies:
-  gd-sprest: 4.7.7
+  gd-sprest: 4.8.2
 devDependencies:
   '@babel/core': 7.3.4
   '@babel/preset-env': 7.3.4
@@ -1715,13 +1715,13 @@ packages:
     dev: false
     resolution:
       integrity: sha512-T/2cn2yh0b+LLNkx41iwIIbfeNj6VffoNGOrmxjRMvLANLzWbqCtw3hsxWW4PobmHdwwWei3pBHZTRScaT4gkA==
-  /gd-sprest/4.7.7:
+  /gd-sprest/4.8.2:
     dependencies:
       core-js: 2.6.5
       gd-sprest-def: 0.6.2
     dev: false
     resolution:
-      integrity: sha512-oK5RAK/pFV6D1T/SWEcio8j0oDIXTPqprtcEeAmETPPgIwi6rQByT0i/GymUc91icWieEOPtuj806QjiViS2tQ==
+      integrity: sha512-WypLjrSRFn1Z8KGnAIRN2hMIGL55dAKJMjS7VgFkOIdpjJf3CvaYURCqTRlubk7z07C2hejuF8chpnsTCbyyDw==
   /get-caller-file/1.0.3:
     dev: true
     resolution:
@@ -3644,7 +3644,7 @@ specifiers:
   '@babel/core': ^7.3.4
   '@babel/preset-env': ^7.3.4
   babel-loader: ^8.0.5
-  gd-sprest: ^4.7.7
+  gd-sprest: ^4.8.2
   ts-loader: ^5.3.3
   webpack: ^4.29.6
   webpack-cli: ^3.2.3
