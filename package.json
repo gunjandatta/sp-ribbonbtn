@@ -19,14 +19,14 @@
   },
   "homepage": "https://github.com/gunjandatta/sp-ribbonbtn#readme",
   "dependencies": {
-    "gd-sprest": "^4.8.2"
+    "gd-sprest": "^5.3.7"
   },
   "devDependencies": {
-    "@babel/core": "^7.3.4",
-    "@babel/preset-env": "^7.3.4",
-    "babel-loader": "^8.0.5",
-    "ts-loader": "^5.3.3",
-    "webpack": "^4.29.6",
-    "webpack-cli": "^3.2.3"
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.0",
+    "babel-loader": "^8.1.0",
+    "ts-loader": "^6.2.2",
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11"
   }
 }
