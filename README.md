@@ -2,9 +2,9 @@
 
 View the [wiki](https://github.com/gunjandatta/sp-ribbonbtn/wiki) for a step-by-step tutorial of creating a custom ribbon button.
 
-[[https://github.com/gunjandatta/sp-ribbonbtn/blob/master/images/ribbonButton.png|alt=ribbon button]]
+![ribbon button](https://github.com/gunjandatta/sp-ribbonbtn/blob/master/images/ribbonButton.png)
 
-[[https://github.com/gunjandatta/sp-ribbonbtn/blob/master/images/userInfo.png|alt=user information]]
+![user information](https://github.com/gunjandatta/sp-ribbonbtn/blob/master/images/userInfo.png)
 
 ### Questions/Problems/Bugs
 
